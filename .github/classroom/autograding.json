@@ -5,7 +5,7 @@
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
       "input": "8",
-      "output": "1 – Ganjil\n2 – Genap\n3 – Ganjil\n4 – Genap\n5 – Ganjil\n6 - Genap\n7 – Ganjil\n8 – Genap",
+      "output": "1 - Ganjil\n2 - Genap\n3 - Ganjil\n4 - Genap\n5 - Ganjil\n6 - Genap\n7 - Ganjil\n8 - Genap",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "javac Jurnal01.java",
       "run": "java Jurnal01",
       "input": "3",
-      "output": "1 – Ganjil\n2 – Genap\n3 – Ganjil",
+      "output": "1 - Ganjil\n2 - Genap\n3 - Ganjil",
       "comparison": "included",
       "timeout": 10,
       "points": 10
